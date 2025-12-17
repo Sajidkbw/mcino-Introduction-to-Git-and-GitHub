@@ -1,0 +1,7 @@
+Command:
+git branch -v
+
+Terminal Output:
+* bug-fix-revert 0bfc735 Update copyright year in README.md
+  bug-fix-typo   0bfc735 Update copyright year in README.md
+  main           0bfc735 [origin/main] Update copyright year in README.md
